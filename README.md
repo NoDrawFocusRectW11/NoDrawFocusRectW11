@@ -1,4 +1,4 @@
-Thank you https://github.com/mrexodia/NoFlashWindow for providing this template. With out it this would not have been possible.
+Thank you https://github.com/mrexodia/NoFlashWindow for providing this template. With out it this would not have been as easy.
 
 
 # For x64 windows
