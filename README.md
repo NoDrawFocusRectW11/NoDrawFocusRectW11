@@ -1,6 +1,6 @@
 Thank you https://github.com/mrexodia/NoFlashWindow for providing this template. With out it this would not have been as easy.
 
-Do not run the 32 bit instructions. The code is not following the correct 32 bit calling conventions what how it patches. 
+**Do not run the 32 bit instructions.** The code is not following the correct 32 bit calling conventions what how it patches. 
 64 bit is fine.
 
 
